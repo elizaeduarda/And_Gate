@@ -15,4 +15,4 @@ Construir e simular uma **porta lógica AND** utilizando ferramentas de desenvol
 
 - **Xilinx Vivado** ou **Xilinx ISE Design Suite**
 - Linguagem de descrição de hardware: **VHDL** ou **Verilog**
-- (Opcional) Simulador integrado (ISim, Vivado Simulator)
+- Simulador integrado (ISim, Vivado Simulator)
