@@ -9,7 +9,6 @@ Construir e simular uma **porta lógica AND** utilizando ferramentas de desenvol
 - Modelagem da lógica em **VHDL** ou **Verilog**
 - Simulação funcional da porta AND
 - Geração de waveform (forma de onda)
-- (Opcional) Síntese e implementação em FPGA
 
 ## 🛠️ Ferramentas Utilizadas
 
