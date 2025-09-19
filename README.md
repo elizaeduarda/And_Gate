@@ -1,6 +1,6 @@
 # Construção da Porta Lógica AND no Xilinx
 
-Este repositório contém a implementação de uma **porta lógica AND** utilizando o software **Xilinx** (Vivado ou ISE). O projeto foi desenvolvido como parte de estudos em lógica digital, eletrônica ou arquitetura de computadores.
+Este repositório contém a implementação de uma **porta lógica AND** utilizando o software **Xilinx** (Vivado ou ISE), realizada como parte da disciplina **Sistemas Reconfiguráveis**.
 
 ## 💡 Objetivo
 
